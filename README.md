@@ -10,15 +10,15 @@ Fiatal programozóként szenvedéllyel dolgozom különböző technológiákon �
 
 ### 🔝 Haladó szint
 
-![Java](https://skillicons.dev/icons?i=java) ![Blender](https://skillicons.dev/icons?i=blender) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+![Java](https://skillicons.dev/icons?i=java) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
 ### ⚙️ Középhaladó szint
 
-![C#](https://skillicons.dev/icons?i=csharp) ![Python](https://skillicons.dev/icons?i=python) ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Packet Tracer](https://skillicons.dev/icons?i=packettracer) ![GitHub](https://skillicons.dev/icons?i=github) ![Photoshop](https://skillicons.dev/icons?i=photoshop)
+![C#](https://skillicons.dev/icons?i=csharp) ![Python](https://skillicons.dev/icons?i=python) ![React](https://skillicons.dev/icons?i=react) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### 🛠️ Kezdő szint
 
-![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cplusplus) ![ZBrush](https://skillicons.dev/icons?i=zbrush) ![DaVinci Resolve](https://skillicons.dev/icons?i=daVinciresolve) ![PHP](https://skillicons.dev/icons?i=php) ![Three.js](https://skillicons.dev/icons?i=threejs) ![Substance Painter](https://skillicons.dev/icons?i=substancepainter) ![GitLab](https://skillicons.dev/icons?i=gitlab) ![Docker](https://skillicons.dev/icons?i=docker) ![Next.js](https://skillicons.dev/icons?i=nextjs)
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![PHP](https://skillicons.dev/icons?i=php) ![Three.js](https://skillicons.dev/icons?i=threejs) ![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 ---
 
