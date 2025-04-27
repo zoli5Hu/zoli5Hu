@@ -14,7 +14,7 @@ Fiatal programozóként szenvedéllyel dolgozom különböző technológiákon �
 
 ### ⚙️ Középhaladó szint
 
-![C#](https://skillicons.dev/icons?i=csharp) ![Python](https://skillicons.dev/icons?i=python) ![React](https://skillicons.dev/icons?i=react) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Python](https://skillicons.dev/icons?i=python) ![React](https://skillicons.dev/icons?i=react) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### 🛠️ Kezdő szint
 
@@ -31,23 +31,23 @@ Fiatal programozóként szenvedéllyel dolgozom különböző technológiákon �
 
 ## 🌱 Jelenlegi projektek
 
-- **Python alapú automatizálási eszközök fejlesztése**
-- **Unity-ban készült 3D-s játékok és alkalmazások készítése**
-- **Webes portfólió és interaktív bemutatók készítése React és Three.js segítségével**
+- **Pluginok fejlesztése szerverekhez javába**
+- **Next.jsel optimalizált weboldalak fejéesztse**
+- **Játékfejlesztés 3Dben**
 
 ---
 
 ## 📈 GitHub statisztikák
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felhasználónév&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoli5Hu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ## 📫 Hogyan érhetsz el?
 
-- **Email:** [email@example.com](mailto:email@example.com)
-- **LinkedIn:** [linkedin.com/in/username](https://www.linkedin.com/in/username)
-- **Twitter:** [@username](https://twitter.com/username)
+- **Email:** [szzoltan.works@gmail.com](mailto:szzoltan.works@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/zoltán-szántó-4b6242345](www.linkedin.com/in/zoltán-szántó-4b6242345)
+- **Telephone:** +36 30 860 2017
 
 ---
 
