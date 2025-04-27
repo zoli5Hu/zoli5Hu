@@ -1,23 +1,31 @@
-# 👨‍💻 Helló, üdvözöllek a profilomon!
+# 👨‍💻 Üdvözöllek a profilomon!
 
 🎮 **Programozó | Szoftverfejlesztő | Webfejlesztő**
 
-Üdvözöllek! Fiatal programozóként szenvedéllyel dolgozom különböző technológiákon és projekteken. Célom, hogy folyamatosan bővítsem tudásomat és hozzájáruljak a nyílt forráskódú közösséghez.&#8203;:contentReference[oaicite:0]{index=0}
+Fiatal programozóként szenvedéllyel dolgozom különböző technológiákon és projekteken. Célom, hogy folyamatosan bővítsem tudásomat és hozzájáruljak a nyílt forráskódú közösséghez.
 
 ---
 
 ## 🧰 Technikai készségek
 
-- **Programozás:** :contentReference[oaicite:1]{index=1}
-- **Webfejlesztés:** :contentReference[oaicite:2]{index=2}
-- **Eszközök:** :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+### 🔝 Haladó szint
+
+![Java](https://skillicons.dev/icons?i=java) ![Blender](https://skillicons.dev/icons?i=blender) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
+
+### ⚙️ Középhaladó szint
+
+![C#](https://skillicons.dev/icons?i=csharp) ![Python](https://skillicons.dev/icons?i=python) ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Packet Tracer](https://skillicons.dev/icons?i=packettracer) ![GitHub](https://skillicons.dev/icons?i=github) ![Photoshop](https://skillicons.dev/icons?i=photoshop)
+
+### 🛠️ Kezdő szint
+
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cplusplus) ![ZBrush](https://skillicons.dev/icons?i=zbrush) ![DaVinci Resolve](https://skillicons.dev/icons?i=daVinciresolve) ![PHP](https://skillicons.dev/icons?i=php) ![Three.js](https://skillicons.dev/icons?i=threejs) ![Substance Painter](https://skillicons.dev/icons?i=substancepainter) ![GitLab](https://skillicons.dev/icons?i=gitlab) ![Docker](https://skillicons.dev/icons?i=docker) ![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 ---
 
 ## 📚 Oktatás
 
-- **Egyetem:** :contentReference[oaicite:5]{index=5}
-- **Középiskola:** :contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7}
+- **Egyetem:** Szegedi Tudományegyetem, Természettudományi és Informatikai Kar – Programtervező Informatikus
+- **Középiskola:** Szegedi SZC Vasvári Pál Gazdasági és Informatikai Technikum
 
 ---
 
@@ -43,10 +51,6 @@
 
 ---
 
-**Megjegyzés:** :contentReference[oaicite:8]{index=8}&#8203;:contentReference[oaicite:9]{index=9}
+**Megjegyzés:** Ne felejtsd el kicserélni a "felhasználónév" helyére a saját GitHub felhasználónevedet, és töltsd ki az elérhetőségeidet a megfelelő linkekkel!
 
 Ha szeretnéd, segíthetek további testreszabásban vagy további információk hozzáadásában! 📄✨
-
----
-::contentReference[oaicite:10]{index=10}
- 
