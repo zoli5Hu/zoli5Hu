@@ -50,6 +50,3 @@ Fiatal programozóként szenvedéllyel dolgozom különböző technológiákon �
 
 ---
 
-**Megjegyzés:** Ne felejtsd el kicserélni a "felhasználónév" helyére a saját GitHub felhasználónevedet, és töltsd ki az elérhetőségeidet a megfelelő linkekkel!
-
-Ha szeretnéd, segíthetek további testreszabásban vagy további információk hozzáadásában! 📄✨
