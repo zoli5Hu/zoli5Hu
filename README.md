@@ -47,7 +47,6 @@ Fiatal programozóként szenvedéllyel dolgozom különböző technológiákon �
 
 - **Email:** [szzoltan.works@gmail.com](mailto:szzoltan.works@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/zolt%C3%A1n-sz%C3%A1nt%C3%B3-4b6242345/](https://www.linkedin.com/in/zolt%C3%A1n-sz%C3%A1nt%C3%B3-4b6242345/)
-- **Telephone:** +36 30 860 2017
 
 ---
 
