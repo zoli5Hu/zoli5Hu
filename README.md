@@ -39,7 +39,7 @@ Fiatal programozóként szenvedéllyel dolgozom különböző technológiákon �
 
 ## 📈 GitHub statisztikák
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoli5Hu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoli5Hu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&v=2)
 
 ---
 
