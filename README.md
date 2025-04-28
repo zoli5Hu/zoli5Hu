@@ -37,15 +37,9 @@ Fiatal programozóként szenvedéllyel dolgozom különböző technológiákon �
 
 ---
 
-## 📈 GitHub statisztikák
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoli5Hu&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&v=2)
-
----
-
 ## 📫 Hogyan érhetsz el?
 
 - **Email:** [szzoltan.works@gmail.com](mailto:szzoltan.works@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/zolt%C3%A1n-sz%C3%A1nt%C3%B3-4b6242345/](https://www.linkedin.com/in/zolt%C3%A1n-sz%C3%A1nt%C3%B3-4b6242345/)
 
-
+---
